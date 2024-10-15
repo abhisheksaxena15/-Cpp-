@@ -1,6 +1,7 @@
-# Code-Soft-Internship-Projects
+# C++-Basic-Projects
 
-Welcome to my repository showcasing the C++ projects I developed during my one-month internship at CodeSoft. This collection demonstrates my ability to apply C++ programming skills in real-world applications, focusing on problem-solving, algorithm implementation, and user interaction.
+Welcome to my repository showcasing the C++ projects I developed during my one-month.
+
 
 ## Projects Overview
 
